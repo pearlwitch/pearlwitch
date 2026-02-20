@@ -7,7 +7,7 @@
 ##### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
 ---
 
-## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/aspa-direita.gif" width="35" />Skills<img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/aspa-esquerda.gif" width="35" />
+## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/aspa-direita.gif" width="20" />Skills<img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/aspa-esquerda.gif" width="20" />
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
