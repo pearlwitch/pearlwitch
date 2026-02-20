@@ -1,4 +1,4 @@
-## Hi there, I'm Lari <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/200w.gif" width="35" />
+## Hi there, I'm Lari <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/cutecat.gif" width="35" />
  
 
 🎓 PhD candidate at Computational Biology at Fiocruz.  
