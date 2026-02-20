@@ -7,7 +7,7 @@
 ##### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
 ---
 
-## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/computer.gif" width="35" /> Skills
+## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/computer.gif" width="25" /> Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -30,7 +30,7 @@
 -->
 ---
 
-## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/contact.gif" width="35" /> Contact
+## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/contact.gif" width="25" /> Contact
 - [LinkedIn](https://www.linkedin.com/in/larissa-bastos-80901521b/)
 - [Lattes](http://lattes.cnpq.br/7044155001571301)
 - [Email](mailto:larissabastos@aluno.fiocruz.br)
