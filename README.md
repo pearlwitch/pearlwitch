@@ -4,7 +4,7 @@
 🎓 Physicist and PhD candidate at Computational Biology at Fiocruz.  
 💻 I'm currently developing an API to automate and integrate **molecular dynamics** workflows.
 
-##### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
+##### **Keywords:** #Bioinformatics #MolecularDynamics #StructuralBiology #ScientificComputing #APIDevelopment #Python
 ---
 
 ## <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/computer.gif" width="25" /> Skills
