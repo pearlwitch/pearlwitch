@@ -1,9 +1,9 @@
-## Hi there, I'm Lari 👋
+## Hi there, I'm Lari 👋 
 
 🎓 PhD candidate at Computational Biology at Fiocruz.  
 💻 I'm currently developing an API to automate and integrate **molecular dynamics** workflows.
 
-### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
+##### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -11,9 +11,11 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 
----
 <!--
+---
+
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearlwitch&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlwitch&layout=compact&theme=radical)
