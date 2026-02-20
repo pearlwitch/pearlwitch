@@ -1,7 +1,7 @@
 ## Hi there, I'm Lari <img src="https://raw.githubusercontent.com/pearlwitch/pearlwitch/main/images/cutecat.gif" width="35" />
  
 
-🎓 PhD candidate at Computational Biology at Fiocruz.  
+🎓 Physicist and PhD candidate at Computational Biology at Fiocruz.  
 💻 I'm currently developing an API to automate and integrate **molecular dynamics** workflows.
 
 ##### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
