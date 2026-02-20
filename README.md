@@ -1,16 +1,37 @@
-## Hi there 👋
+## Hi there, I'm Lari 👋
 
+🎓 PhD candidate at Computational Biology at Fiocruz.  
+💻 I'm currently developing an API to automate and integrate **molecular dynamics** workflows.
+
+**Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
+---
+
+## 🚀 Tecnologias e Ferramentas
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+
+---
+
+## 📊 Estatísticas
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearlwitch&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlwitch&layout=compact&theme=radical)
+
+---
 <!--
-**pearlwitch/pearlwitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌟 Projetos em Destaque
+- [Projeto 1](https://github.com/dsilvaphy/projeto1) – breve descrição do que ele faz.
+- [Projeto 2](https://github.com/dsilvaphy/projeto2) – destaque para aplicação prática ou impacto.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+---
+
+## 📫 Como me encontrar
+- [LinkedIn](https://www.linkedin.com/in/larissa-bastos-80901521b/)
+- [Lattes](http://lattes.cnpq.br/7044155001571301)
+- [Email](mailto:larissabastos@aluno.fiocruz.br)
+
+---
+
+✨ *Curiosidade:* além da pesquisa, gosto de [hobby pessoal, como música, esportes ou leitura].
