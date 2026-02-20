@@ -3,7 +3,7 @@
 🎓 PhD candidate at Computational Biology at Fiocruz.  
 💻 I'm currently developing an API to automate and integrate **molecular dynamics** workflows.
 
-**Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
+### **Keywords:** #Bioinformatics #MolecularDynamics #ScientificComputing #APIDevelopment #Python
 ---
 
 ## 🚀 Tecnologias e Ferramentas
@@ -13,13 +13,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
 ---
-
+<!--
 ## 📊 Estatísticas
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pearlwitch&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pearlwitch&layout=compact&theme=radical)
 
 ---
-<!--
+
 ## 🌟 Projetos em Destaque
 - [Projeto 1](https://github.com/dsilvaphy/projeto1) – breve descrição do que ele faz.
 - [Projeto 2](https://github.com/dsilvaphy/projeto2) – destaque para aplicação prática ou impacto.
@@ -33,5 +33,6 @@
 - [Email](mailto:larissabastos@aluno.fiocruz.br)
 
 ---
-
+<!--
 ✨ *Curiosidade:* além da pesquisa, gosto de [hobby pessoal, como música, esportes ou leitura].
+-->
